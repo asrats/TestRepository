@@ -1,4 +1,5 @@
 using CleanArch.Infra.Data.Context;
+using CleanArch.Infra.IOC;
 using CleanArch.Mvc.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,6 +34,7 @@ namespace CleanArch.Mvc
                                  optios.UseSqlServer(Configuration.GetConnectionString("UniversityDBConnection"));
 
                              });
+            RegisterServices(services);
 
             services.AddControllersWithViews();
             services.AddRazorPages();
@@ -76,5 +78,10 @@ namespace CleanArch.Mvc
                 endpoints.MapRazorPages();
             });
         }
+        private static void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainer.RegisterServices(services);
+        }
+           
     }
 }
