@@ -95,3 +95,8 @@ C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\obj\Debug\netc
 C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.dll
 C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.pdb
 C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.genruntimeconfig.cache
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.IOC.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.IOC.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs

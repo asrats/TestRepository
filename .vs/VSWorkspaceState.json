@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CleanArch",
+    "\\CleanArch\\CleanArch.Application",
+    "\\CleanArch\\CleanArch.Application\\Interfaces",
+    "\\CleanArch\\CleanArch.Application\\Services",
+    "\\CleanArch\\CleanArch.Infra.Data",
+    "\\CleanArch\\CleanArch.Infra.Data\\Repository",
+    "\\CleanArch\\CleanArch.Infra.IOC",
+    "\\CleanArch\\CleanArch.Mvc"
   ],
-  "SelectedNode": "\\CleanArch.sln",
+  "SelectedNode": "\\CleanArch\\CleanArch.Mvc\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

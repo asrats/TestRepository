@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IOC.deps.json
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IOC.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IOC.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.AssemblyInfo.cs
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.csproj.CopyComplete
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.dll
+C:\Users\user\Source\Repos\TestRepository\CleanArch\CleanArch.Infra.IOC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IOC.pdb
